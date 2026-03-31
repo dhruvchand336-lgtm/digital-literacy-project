@@ -1,0 +1,9 @@
+Title: UPI Payment Fraud Case Study
+
+UPI fraud is a common type of cybercrime where scammers trick users into sending money through fake payment requests. In many cases, the fraudster contacts the victim through a phone call or message, pretending to be a bank official, customer support agent, or seller.
+
+The scam usually happens step by step. First, the fraudster gains the victim’s trust by offering help or a fake deal. Then, they send a UPI request or ask the victim to scan a QR code. The victim is misled into believing that they will receive money, but instead, money gets deducted from their account.
+
+College students and new users of digital payments are often targeted because they may not be fully aware of such scams. The consequences include financial loss, stress, and loss of trust in digital platforms.
+
+This type of cybercrime is increasing rapidly, and it is important for users to understand how these scams work in order to avoid becoming victims.
